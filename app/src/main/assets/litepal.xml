@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="Timer" />
+    <version value="2" />
+
+    <list>
+        <mapping class="reply.timer.DateBase.MemorialDay" />
+        <mapping class="reply.timer.DateBase.CountDown" />
+    </list>
+    <storage value="internal" />
+</litepal>
